@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1490087042 source:f:\workspace(cpp)\PFGThread\main.cpp
+	"SyncObj.h"
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+	<string.h>
+
+1487072652 source:f:\workspace(cpp)\PFGThread\src\PFGThread.cpp
+	"PFGThread.h"
+
+1487072841 f:\workspace(cpp)\PFGThread\include\PFGThread.h
+
+1487577980 source:f:\workspace(cpp)\PFGThread\src\thread.cpp
+	"Thread.h"
+	<iostream>
+
+1487242984 f:\workspace(cpp)\PFGThread\include\thread.h
+	"pthread.h"
+
+1487578087 source:f:\workspace(cpp)\PFGThread\src\downloadfilethread.cpp
+	"DownloadFileThread.h"
+	<iostream>
+	<unistd.h>
+	"SyncObj.h"
+
+1487243516 f:\workspace(cpp)\PFGThread\include\downloadfilethread.h
+	"Thread.h"
+
+1487561597 source:f:\workspace(cpp)\PFGThread\src\syncobj.cpp
+	"SyncObj.h"
+
+1487589073 f:\workspace(cpp)\PFGThread\include\syncobj.h
+	"pthread.h"
+
+1487294745 source:f:\workspace(cpp)\PFGThread\src\showpicthread.cpp
+	"ShowPicThread.h"
+
+1487295063 f:\workspace(cpp)\PFGThread\include\showpicthread.h
+	"Thread.h"
+
+1487593354 source:f:\workspace(cpp)\PFGThread\src\subthread.cpp
+	"SubThread.h"
+	<iostream>
+
+1487593347 f:\workspace(cpp)\PFGThread\include\subthread.h
+	"Thread.h"
+
+1490148110 source:f:\workspace(cpp)\pfgthread\main.cpp
+	"SyncObj.h"
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+
+1487589073 f:\workspace(cpp)\pfgthread\include\syncobj.h
+	"pthread.h"
+
+1487578087 source:f:\workspace(cpp)\pfgthread\src\downloadfilethread.cpp
+	"DownloadFileThread.h"
+	<iostream>
+	<unistd.h>
+	"SyncObj.h"
+
+1487243516 f:\workspace(cpp)\pfgthread\include\downloadfilethread.h
+	"Thread.h"
+
+1487242984 f:\workspace(cpp)\pfgthread\include\thread.h
+	"pthread.h"
+
